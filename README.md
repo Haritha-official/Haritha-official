@@ -32,7 +32,7 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=Haritha-official&color=blue)
 
 ## 🌍 Connect with Me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/](https://www.linkedin.com/in/haritha-ganapathy-5a7720269?)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/](https://www.linkedin.com/in/haritha-ganapathy-5a7720269)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black)]([https://leetcode.com/](https://leetcode.com/u/Haritha_Ganapathy-07/))
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-%23red.svg?style=flat&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/harithaganapathy)
 
