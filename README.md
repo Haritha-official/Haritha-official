@@ -1,7 +1,7 @@
 <div align="right">
-  <img src="https://raw.githubusercontent.com/Haritha-official/Haritha-official/main/7jiL.gif" width="200"/>
+  <img src="https://raw.githubusercontent.com/Haritha-official/Haritha-official/main/7jiL.gif" width="400"/>
 </div>
-<div align="left">
+<div>
   <h3>HI 👋</h3>
   <p>👨‍💻 Cyber Defender in Training</p>
   <p>💡 Passionate about ethical hacking, cryptography & security tools</p>
