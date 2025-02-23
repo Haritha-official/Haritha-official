@@ -1,3 +1,5 @@
+<img align="center" src="https://raw.githubusercontent.com/Haritha-official/Haritha-official/main/github-header-image.png" width="100"/>
+
 <img align="right" src="https://raw.githubusercontent.com/Haritha-official/Haritha-official/main/MeG.gif" width="400"/>
 
 ### HI 👋 
