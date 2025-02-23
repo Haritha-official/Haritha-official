@@ -1,6 +1,5 @@
 
-<img src="https://raw.githubusercontent.com/user/repo/main/image.gif" width="400" style="float: right;"/>
-
+<img src="(https://raw.githubusercontent.com/user/repo/main/image.gif)" width="400" style="float: right;"/>
 ### HI 👋 
 👨‍💻 Cyber Defender in Training  
 💡 Passionate about ethical hacking, cryptography & security tools  
