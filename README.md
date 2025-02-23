@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="![github-header-image (2)](https://github.com/user-attachments/assets/2c02aefe-ea9e-49e6-979c-85b614aaedde)
+" alt="Banner" width="100%">
+</p>
+
 ### HI 👋 
 👨‍💻 Cyber Defender in Training  
 💡 Passionate about ethical hacking, cryptography & security tools  
