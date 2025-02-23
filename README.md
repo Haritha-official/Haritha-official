@@ -1,19 +1,13 @@
-<div align="right">
-  <img src="https://raw.githubusercontent.com/Haritha-official/Haritha-official/main/7jiL.gif" width="400"/>
-</div>
-<div>
-  <h3>HI 👋</h3>
-  <p>👨‍💻 Cyber Defender in Training</p>
-  <p>💡 Passionate about ethical hacking, cryptography & security tools</p>
-  <p>🔍 Analyzing vulnerabilities & securing the digital world</p>
-  <p>🛠️ Building security projects and learning every day!</p>
+<img align="right" src="https://raw.githubusercontent.com/Haritha-official/Haritha-official/main/7jiL.gif" width="400"/>
+### HI 👋 
+👨‍💻 Cyber Defender in Training  
+💡 Passionate about ethical hacking, cryptography & security tools  
+🔍 Analyzing vulnerabilities & securing the digital world  
+🛠️ Building security projects and learning every day!  
 
-  <h3>💡 What I'm Working On:</h3>
-  <ul>
-    <li>📚 Learning ethical hacking & cybersecurity techniques</li>
-    <li>🛠 Learning MERN Stack and building projects</li>
-  </ul>
-</div>
+### 💡 What I'm Working On:
+- 📚 Learning ethical hacking & cybersecurity techniques  
+- 🛠 Learning MERN Stack and building projects 
 
 # 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) 
