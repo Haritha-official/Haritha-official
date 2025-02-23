@@ -1,5 +1,3 @@
-![Header](./.png)
-
 ### HI 👋 
 👨‍💻 Cyber Defender in Training  
 💡 Passionate about ethical hacking, cryptography & security tools  
@@ -30,6 +28,12 @@
 <p align="left">
 <a href="https://www.leetcode.com/https://leetcode.com/u/haritha_ganapathy-07/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/haritha_ganapathy-07/" height="30" width="40" /></a>
 </p>
+
+## 📧  
+**harithaganapathy7@gmail.com**
+
+## 📝 Resume 
+[https://acrobat.adobe.com/id/urn:aaid:sc:AP:38a73c59-bb0d-4973-86d6-2b392fbcc031](https://acrobat.adobe.com/id/urn:aaid:sc:AP:38a73c59-bb0d-4973-86d6-2b392fbcc031)
 
 ### 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Haritha-official&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
