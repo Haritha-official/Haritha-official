@@ -13,7 +13,7 @@
 </div>
 
 <div align="right">
-  <img src="https://raw.githubusercontent.com/Haritha-official/Haritha-official/main/9viJ.gif" width="200"/>
+  <img src="https://raw.githubusercontent.com/Haritha-official/Haritha-official/main/7jiL.gif" width="100" height="200"/>
 </div>
 
 # 💻 Tech Stack:
