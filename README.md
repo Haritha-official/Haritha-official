@@ -1,3 +1,6 @@
+<div align="right">
+  <img src="https://raw.githubusercontent.com/Haritha-official/Haritha-official/main/7jiL.gif" width="200"/>
+</div>
 <div align="left">
   <h3>HI 👋</h3>
   <p>👨‍💻 Cyber Defender in Training</p>
@@ -10,10 +13,6 @@
     <li>📚 Learning ethical hacking & cybersecurity techniques</li>
     <li>🛠 Learning MERN Stack and building projects</li>
   </ul>
-</div>
-
-<div align="right">
-  <img src="https://raw.githubusercontent.com/Haritha-official/Haritha-official/main/7jiL.gif" width="100" height="200"/>
 </div>
 
 # 💻 Tech Stack:
