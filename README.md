@@ -1,17 +1,5 @@
-### HI 👋 
-<table>
-  <tr>
-    <td>
-     <p>👨‍💻 Cyber Defender in Training </p> 
-       <p>💡 Passionate about ethical hacking, cryptography & security tools </p> 
-      <p>🔍 Analyzing vulnerabilities & securing the digital world  </p>
-      <p>🛠️ Building security projects and learning every day! </p>
-    </td>
-    <td>
-      <img src="https://raw.githubusercontent.com/user/repo/main/9viJ.gif" width="200"/>
-    </td>
-  </tr>
-</table>
+
+<img src="https://raw.githubusercontent.com/user/repo/main/image.gif" width="400" style="float: right;"/>
 
 ### HI 👋 
 👨‍💻 Cyber Defender in Training  
