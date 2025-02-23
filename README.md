@@ -1,4 +1,5 @@
-<img align="right" src="https://raw.githubusercontent.com/Haritha-official/Haritha-official/main/7jiL.gif" width="400"/>
+<img align="right" src="https://raw.githubusercontent.com/Haritha-official/Haritha-official/main/MeG.gif" width="400"/>
+
 ### HI 👋 
 👨‍💻 Cyber Defender in Training  
 💡 Passionate about ethical hacking, cryptography & security tools  
