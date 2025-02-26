@@ -1,4 +1,6 @@
 <img align="center" src="https://raw.githubusercontent.com/Haritha-official/Haritha-official/main/github-header-image.png" width="100%"/>
+### Visitors Count: 
+![Profile Views](https://komarev.com/ghpvc/?username=Haritha-official&color=blue)
 
 <img align="right" src="https://raw.githubusercontent.com/Haritha-official/Haritha-official/main/MeG.gif" width="300"/>
 
@@ -28,16 +30,10 @@
 ## Others:
 <p align="left"> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> </p>
 
-<h3 align="left">Other Platforms:</h3>
-<p align="left">
-<a href="https://www.leetcode.com/https://leetcode.com/u/haritha_ganapathy-07/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/haritha_ganapathy-07/" height="30" width="40" /></a>
-</p>
-
 ### 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Haritha-official&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Haritha-official&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Haritha-official&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### Visitors Count: 
-![Profile Views](https://komarev.com/ghpvc/?username=Haritha-official&color=blue)
+
 
