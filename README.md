@@ -1,6 +1,4 @@
 <img align="center" src="https://raw.githubusercontent.com/Haritha-official/Haritha-official/main/github-header-image.png" width="100%"/>
-### Visitors Count: 
-![Profile Views](https://komarev.com/ghpvc/?username=Haritha-official&color=blue)
 
 <img align="right" src="https://raw.githubusercontent.com/Haritha-official/Haritha-official/main/MeG.gif" width="300"/>
 
@@ -12,7 +10,10 @@
 
 ### 💡 What I'm Working On:
 - 📚 Learning ethical hacking & cybersecurity techniques  
-- 🛠 Learning MERN Stack and building projects 
+- 🛠 Learning MERN Stack and building projects
+
+### Visitors Count: 
+![Profile Views](https://komarev.com/ghpvc/?username=Haritha-official&color=blue)
 
 # 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) 
